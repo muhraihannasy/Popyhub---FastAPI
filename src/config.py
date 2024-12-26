@@ -1,0 +1,4 @@
+APP_NAME = "Pospyhub"
+API_PREFIX = "/api"
+ROUTE_PREFIX_V1 = "/v1"
+COMPANY_CODE_PREFIX = "POSHUB"
